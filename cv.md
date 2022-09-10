@@ -10,7 +10,7 @@ Senior Project Manager
 ## **PROFILE**
 - **Specialization** - management of medium and large projects, as a project manager; organization, analysis and implementation of processes, as an analyst;
 - **Portfolio** - 30+ projects for industrial and commercial enterprises;
-- **Experience** - 4 years as an analyst, about 6 years as a project manager, 3+ years as a branch manager;
+- **My experience** - 4 years as an analyst, about 6 years as a project manager, 3+ years as a branch manager;
 
 ## **CONTACTS**
 **PHONE:** +38 (099) 309-20-07
@@ -20,6 +20,7 @@ Senior Project Manager
 **Linkedin:** [https://www.linkedin.com/in/verapm/](https://www.linkedin.com/in/verapm/)
 
 ## **EXPERIENCE**
+
 **Project Manager, Lead Business Analyst, Rarus**
 
 *June 2016 — Now*
