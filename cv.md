@@ -1,20 +1,20 @@
-#**VIRA KANDELA**
+# **VIRA KANDELA**
 *Date of birth: 31st May 1990*
 Junior Front-end development
 Lead Business Analyst
 Senior Project Manager
-
-##**PROFILE**
+---
+## **PROFILE**
 - **Specialization** - management of medium and large projects, as a project manager; organization, analysis and implementation of processes, as an analyst;
 - **Portfolio** - 30+ projects for industrial and commercial enterprises;
 - **Experience** - 4 years as an analyst, about 6 years as a project manager, 3+ years as a branch manager;
-
-##**CONTACTS**
+---
+## **CONTACTS**
 **PHONE:** +38 (099) 309-20-07
 **EMAIL:** ver4el@gmail.com
 **Linkedin:** [https://www.linkedin.com/in/verapm/](https://www.linkedin.com/in/verapm/)
-
-##**EXPERIENCE**
+---
+## **EXPERIENCE**
 **Project Manager, Lead Business Analyst, Rarus**
 *June 2016 — Now*
 Working with key stakeholders, data and operations management, and product management to determine project strategy and requirements.
@@ -38,16 +38,17 @@ Collecting analytical data and building complex queries.
 **Course Instructor, LevelUp**
 *August 2018 — August 2021*
 Developing a course on project management and teaching it.
-
-##**EDUCATION**
+---
+## **EDUCATION**
 **Master’s degree, Finance,  Oles Honchar Dnipro National University**
 *2008 — 2012*
-
-##**LANGUAGES**
+---
+## **LANGUAGES**
 **English** – Intermediate
-
-##**SKILLS**
- 
-##**HOBBY**
+---
+## **SKILLS**
+![skills](/img/Screenshot_1.jpg) 
+---
+## **HOBBY**
 - Running
 - Trekking
